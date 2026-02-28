@@ -27,10 +27,13 @@ A full-stack task management application built using modern web technologies.
 
 ---
 
-## 📸 Project Screenshot
-(Add screenshot here)
+## 📸 Project Screenshots
 
----
+### Dashboard View
+![Dashboard](Screenshot 2026-02-28 093024.png)
+
+### Task Page
+![Task Page](Screenshot 2026-02-28 093057.png)
 
 ## ⚙️ Installation
 
