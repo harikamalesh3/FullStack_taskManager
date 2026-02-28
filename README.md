@@ -34,6 +34,9 @@ A full-stack task management application built using modern web technologies.
 
 ## ⚙️ Installation
 
+## Project Screenshot
+
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/FullStack_taskManager.git
+git clone https://github.com/harikamalesh3/FullStack_taskManager.git
+ 
