@@ -32,7 +32,7 @@ A full-stack task management application built using modern web technologies.
 ### Dashboard View
 ![Dashboard](./Screenshot%202026-02-28%20093024.png)
 
-### Task Page
+### Login Page
 ![Task Page](./Screenshot%202026-02-28%20093057.png)
 
 ## ⚙️ Installation
